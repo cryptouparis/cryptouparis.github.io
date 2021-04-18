@@ -1,0 +1,47 @@
+body
+{
+    background: rgba(60, 165, 100, 0.377);
+}
+.button input
+{
+    
+    width: 50%;
+    color: rgba(210, 221, 211, 0.493);
+    border: 3px solid rgb(88, 87, 87);
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    background-color: rgb(150, 144, 144); 
+    margin: 30px;
+    
+  
+}
+.contact
+{
+    position: absolute;
+    top: 150px;
+    max-width: 550px;
+    margin-top: 200px;
+    left : 600px;
+
+}
+.détails
+{
+    margin-right: 5%;
+    width: 40%;
+    border: 0;
+    border-bottom: 2px solid black;
+}
+.button
+{
+    margin-left: 70px;
+}
+
+#bg
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
